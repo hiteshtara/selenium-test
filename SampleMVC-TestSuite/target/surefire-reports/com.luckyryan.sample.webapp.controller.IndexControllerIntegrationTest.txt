@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.luckyryan.sample.webapp.controller.IndexControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.315 sec - in com.luckyryan.sample.webapp.controller.IndexControllerIntegrationTest
